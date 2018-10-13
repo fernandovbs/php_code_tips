@@ -16,7 +16,7 @@ Para instalar um ambiente WAMP a coisa é wizard. Geralmente são levantados, ca
 
 Alguns conjuntos, ou pacotes, são disponibilizados 
 
-## Virtualziando Ambientes de desenvolvimento
+## Virtualizando Ambientes de desenvolvimento
 
 Desenvolvedores mais experientes entram em detrimento com as formas acima de se montar ambientes. Mesmo sendo as formas acimas capazes disponibilizar o ambiente para desenvolver PHP, a forma como que isso é feito não é um fator gerador, ou agregador, de qualidade ao processo como um todo.
 
